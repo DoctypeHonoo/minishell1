@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91092610/173183424-3797c756-5d1d-47cd-8019-04b8e2c1f07f.png" />
+  <img src="https://user-images.githubusercontent.com/91092610/174792211-2db9aca5-15a5-413c-8fbc-16809e58c09c.png" />
 </p>
 <h1 align="center">
-   MINISHELL2
+   MINISHELL1
 </h1>
 
 ---
