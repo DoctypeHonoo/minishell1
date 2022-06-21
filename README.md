@@ -55,5 +55,5 @@ $ ./mysh
 
 Le terminal **Minishell1** s'utilise comme tout autre terminal, il vous est possible d'utiliser n'importe quel binaire interne, tel que *ls*, *cat*, *grep*, et bien d'autre, mais aussi les fonctions builtins, tel que *cd*, *setenv*, *unsetenv* et *env*. 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91092610/174324680-877675c7-df21-46e5-bc8a-01379c644ab8.png">
+  <img src="https://user-images.githubusercontent.com/91092610/174793117-2ed8992d-33a9-4037-b861-6d4e1bcdec43.png">
 </p>
